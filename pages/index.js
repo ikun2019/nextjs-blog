@@ -34,7 +34,7 @@ const Home = ({ allPostsData }) => {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>私はフルスタックエンジニアです。</p>
+        <p>私はNextJSエンジニアです。</p>
       </section>
 
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
